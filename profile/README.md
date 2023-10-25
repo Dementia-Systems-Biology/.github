@@ -1,9 +1,11 @@
 # Welcome to the Dementia Systems Biology Group Repository
 ---
 
-| [Home](https://github.com/Dementia-Systems-Biology/)
+| 
+[Home](https://github.com/Dementia-Systems-Biology/)
 | [Project Idea List](https://github.com/Dementia-Systems-Biology/.github/blob/main/Projects/Project_ideas_list.md)
 | [Our projects](https://github.com/Dementia-Systems-Biology/.github/blob/main/Projects/Existing_projects.md) | 
+
 ---
 
 
