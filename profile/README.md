@@ -13,6 +13,16 @@
 
 Greetings and welcome to the official repository of the Dementia Systems Biology Group at Maastricht University. We are a dedicated team of researchers committed to unraveling the intricacies of dementia through the lens of systems biology. Our collective efforts are geared towards understanding the underlying molecular and cellular mechanisms that drive this complex neurodegenerative condition.
 
+#### Our top projects
+
+[Blood-based multivariate methylation risk score for cognitive impairment and dementia](https://github.com/Dementia-Systems-Biology/DementiaRiskPrediction)
+
+[PRS-Multi-Trait: A Comprehensive R Package for Multi-Trait Polygenic Risk Score Calculation and Prediction](https://github.com/Dementia-Systems-Biology/PRS-multi-trait)
+
+[Machine Learning-based Prediction of Cognitive Outcomes in de novo Parkinson's Disease](https://github.com/Dementia-Systems-Biology/PPMI-ML-Cognition-PD)
+
+
+
 #### Our Mission
 
 At the heart of our mission lies a shared determination to make strides in the field of dementia research. Through rigorous investigation and collaboration, we aim to shed light on the multifaceted nature of dementia, ultimately paving the way for innovative diagnostic tools and therapeutic interventions.
