@@ -1,4 +1,4 @@
-# Welcome to the Dementia Systems Biology Group Repository
+# Welcome to the Maastricht Dementia Systems Biology Group Repository
 ---
 
 | 
